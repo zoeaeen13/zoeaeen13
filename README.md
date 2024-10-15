@@ -1,10 +1,9 @@
-## Hi there 👋
+![Beige Minimalist Modern Beauty YouTube Banner](https://github.com/user-attachments/assets/e5cd4d3e-aa56-49aa-8406-60c97e9a7405)
 
 <!--
 **zoeaeen13/zoeaeen13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,16 +14,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🌱 My Digital Garden
+### Hi, I'm Zoe 👋 
+
+I'm a passionate frontend developer dedicated to solving problems through coding. 🌸 I prioritize user experience, performance optimization, innovative digital solutions, and a mindful approach to development.
+
+
+## 🌱 My Digital Garden
 I write regular blog posts, most of which you will find on my personal website [menghua.day](https://www.menghua.day/).
 
 I write about things I am familiar with, things that I am learning, and things that I experienced.
 
 [Latest Post](https://www.menghua.day/work) 👉
 
----
 
-### ⚡ Languages and Tools
+## ⚡ Languages and Tools
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
