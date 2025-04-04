@@ -1,4 +1,3 @@
-![Beige Minimalist Modern Beauty YouTube Banner](https://github.com/user-attachments/assets/e5cd4d3e-aa56-49aa-8406-60c97e9a7405)
 
 <!--
 **zoeaeen13/zoeaeen13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
